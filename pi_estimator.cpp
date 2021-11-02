@@ -5,6 +5,8 @@ using namespace std;
 
 int main() {
 
+        // this is a comment
+
         int attempts=1000000;
         int tries=0;
         int inside=0;
